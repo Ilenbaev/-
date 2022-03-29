@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Ulan",
+      "phone": "555555",
+      "email": "Ilenbaev@mail.ru",
+      "img": "https://pngicon.ru/file/uploads/vinni-pukh-v-png-256x256.png",
+      "id": 1
+    },
+    {
+      "name": "Uli",
+      "phone": "5555",
+      "email": "Ilenbaev@mail.ru",
+      "img": "https://i.pinimg.com/474x/e4/f2/bc/e4f2bc7c1082d0fd53deb73e97ded0c5--hello-kitty.jpg",
+      "id": 2
+    }
+  ]
+}
